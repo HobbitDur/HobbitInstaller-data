@@ -21,7 +21,7 @@
     "DefaultFilesFR": {
       "download_type": "direct",
       "download_name": "DefaultFilesFR.zip",
-      "link": "https://nas-ludo.fr/drive/d/s/ynCDplrefeIZPEnR51gLYpEE4ViK8wfu/webapi/entry.cgi/SYNO.SynologyDrive.Files/DefaultFilesFR.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A822966903157860063%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1724337036518&sharing_token=%22l4dlPRZif30Xk6yOxA6Gf32f3IKyl3ryF7mNcFwcia2EIzNsq9yg5iu7cASNR8iHDCXAkUDAhMlbCboMW_plKy.JIqK.iQ603RikIhw.L_zE2eqXOYmmkGM3ZN4Kk7Idn0HJQ77DKsagLIgvQsXyW.rXmFyV2.B5apsOY_S137wUNWHhonWgZgEYMMc4FENUJyWSNjoO73kAgj0mQdvk3ikiYzgH2fglJpbJ.K6V.URaKRivm2A8RcJG%22&SynoToken=bXXAHAd1hrf7w",
+      "link": "https://nas-ludo.fr/drive/d/s/ynCDplrefeIZPEnR51gLYpEE4ViK8wfu/webapi/entry.cgi/SYNO.SynologyDrive.Files/DefaultFilesFR.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A822966903157860063%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820916456&sharing_token=%22c9lRWMx1Ukm5v3LJ3kr2BV76xAEwWfw0Y7Ut7T8Vhblht.JeSYKSqyCgadui78fP9bGANQgJZHMmvjEc_pAfP7_rcIGp1XmorbK.zPNdQ_mn1RXHo1fR1L7W20r2J_DBtR1zmydaZT9JryFzw_v5WnKmjSpbeu6R4gmopLFct2EqqlfgN_8QOEBF5In1S6NxhyDLS8oP80eeM93KZz9TNNh8pf.6__g..cpmcpNVmgi9inYSmcYLCBN3%22&SynoToken=LMA5XD9re3Lt2",
       "git_tag": "none",
       "rank": "1",
       "compatibility": [
@@ -39,7 +39,7 @@
     "DefaultFilesEN": {
       "download_type": "direct",
       "download_name": "DefaultFilesEN.zip",
-      "link": "https://nas-ludo.fr/drive/d/s/ynTHPzfDyYO7wnoi8fDsnnQJI0cOXwiu/webapi/entry.cgi/SYNO.SynologyDrive.Files/DefaultFilesEN.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A823026974191560455%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1724333514294&sharing_token=%22BDgXaMBLBVD3hWOpFUr9wmNw1wQEqx8ZTfO8LFKsMhUX0IhEpgEu19hz5czzkrdxY2vG64VgC3.GDvdyxrPRzcY7yPA6PAcsxIg9C55fkTppSGnbjdGkWumYYBwgVUqRXVU_870ESwhcoL6bHJhdMuSog6VrGjuRnvepc.baw_yfZ4N9inxfuMOh6gsimpJt7DqEYzNELy6zd5Va5Jee6aYpxFDT527XBg0YJ4F.lAhNkQWRsUzFR_N.%22&SynoToken=bXXAHAd1hrf7w",
+      "link": "https://nas-ludo.fr/drive/d/s/ynTHPzfDyYO7wnoi8fDsnnQJI0cOXwiu/webapi/entry.cgi/SYNO.SynologyDrive.Files/DefaultFilesEN.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A823026974191560455%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820889891&sharing_token=%226ArqxY92i0pOszE.5cuRdUqwEVg7eo0OmDkH8DqS1R51odUD_aTSxS97HKPLn6cSHojHWgxcyzn1jouvJX6TobOf5WIbi59aOjuVWGYpjCV1yeheRkNflkhQ._5KoijWZhzrGEYE77iGV0DFESmDz7SsM7OURiXPt8e004SGU9tGvsE9AE0VgVADWPYQXvdbRqaZ_2JSA_uuZKSp8U4tw03PSjMwTJtJ33CsVlOC3jZhf5F4r3l9uL0Z%22&SynoToken=LMA5XD9re3Lt2",
       "git_tag": "none",
       "rank": "10",
       "compatibility": [
@@ -57,7 +57,7 @@
     "DefaultFilesDE": {
       "download_type": "direct",
       "download_name": "DefaultFilesDE.zip",
-      "link": "https://nas-ludo.fr/drive/d/s/ynTJrtTP6kxshUHGLmx57py2KhnPyOxu/webapi/entry.cgi/SYNO.SynologyDrive.Files/DefaultFilesDE.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A823027113352275759%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1724336923256&sharing_token=%226rizPtpIrCuipWQ_DHW_7.qv9m6_EyRXqPD1hyJq20e_abgoA_m9ZMPvE8lhEfZk461I53GvO9lvKzgQsT2RwNqBM3KJHTlTXPytO0JKM_BUkcI0j3kKj3sDFA0P.njGa83vy_8pWc4KrIkM5UoyO835Ji2FIXPMjAYMmdMqcs6HbjUAVffVNXAKfyZQ60TSf8A9V0VBklT6RfkTEx6eT10G4JelGCJVdK9jR21riUvbVdVNmo1T5CFk%22&SynoToken=bXXAHAd1hrf7w",
+      "link": "https://nas-ludo.fr/drive/d/s/ynTJrtTP6kxshUHGLmx57py2KhnPyOxu/webapi/entry.cgi/SYNO.SynologyDrive.Files/DefaultFilesDE.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A823027113352275759%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820864404&sharing_token=%22w2SrzcV9Pt7HodoLkjDLrW0m0GyNET47JmyJfDzRgx.P_Ka.JBNU2Y_eGlZmyhDOgrplRtXyQAC8M4ranMYZLkpuDH1zpgX5aAuWKIyzHj5wmywNx6pi_HntEpfD4Ier2tn4.cN9DHbJgGqVK6.9D4M34TNhda5GRrRWy6Gy0I83jIckcW6b0f7GN75ljLF.wUU_zhwhTetDCbByJbZ5jOPBDQ5sfxM5foZIGald5btKmuL_6MpsK4FK%22&SynoToken=LMA5XD9re3Lt2",
       "git_tag": "none",
       "rank": "20",
       "compatibility": [
@@ -160,7 +160,7 @@
     "FFNx-RoseAndWine": {
       "download_type": "direct",
       "download_name": "FFNx-RoseAndWine.zip",
-      "link": "https://nas-ludo.fr/drive/d/s/ykEctZwuaU8n9jXTUwXdt59MxMVTyXxv/webapi/entry.cgi/SYNO.SynologyDrive.Files/FFNx-RoseAndWin.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A822320349564675511%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1724099160016&sharing_token=%22qQNFKl.PwbW1lMBrGO9FQ_s4hOJJWyZ1o_QaSyKbdwHvRjNda2uUnp56lp00WmUr8NreOKs9XH2f4590gBPhFrkV4qCPjTnVsh2k4mA97FkEsXU3nRqhvhTDxutclQ7FeWk1ATvdogN97dIUsMENvAhFmUg7WBXT.s0v36VbsLanOe2bQAxYkkWvHcwfIRP.5EhqNcrfsoIDN.dPrBGkWifomcuRSyMDPve3pP.uF2QXl1jtmkMys6li%22&SynoToken=y6IlmhppUkOLg",
+      "link": "https://nas-ludo.fr/drive/d/s/ykEctZwuaU8n9jXTUwXdt59MxMVTyXxv/webapi/entry.cgi/SYNO.SynologyDrive.Files/FFNx-RoseAndWin.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A822320349564675511%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820824880&sharing_token=%22IgtbrKMXf6h2Nt5XIC9h3gFrVLpRg5_IhkgMeVxMxvf8mc.1S9WKgqrNK3DbxlC.IHo_R1l.7m8vufYCa9sh.b7Ujq9wEc5Hdyfa1va4101GH03AM2f8Sds9JFa_jwpfgTDEF7u5GoQrrUg1gRMorGQvjl346AF7gbn_YfXgYCdBN_Y.qYsY4cIVZU6dbCYub19KuwG0AbOGIzJELLa0egGYuMx3tZ.03hl1s484.ZC_oh_sA8JXpgjL%22&SynoToken=LMA5XD9re3Lt2",
       "git_tag": "none",
       "rank": "60",
       "compatibility": [
@@ -211,7 +211,7 @@
     "FFNxBattlefields": {
       "download_type": "direct",
       "download_name": "FFNxBattlefields.rar",
-      "link": "https://nas-ludo.fr/drive/d/s/ydCVP829Bye9WUz2ncI4dQInltWN6IFz/webapi/entry.cgi/SYNO.SynologyDrive.Files/FFNxBattlefields.rar?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A820784500098245147%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1724337524125&sharing_token=%22tDH.P.phuQzM7_to9OQonrewdb5GPyQ2fZaTG8k5dLGc8S9.LMCVycV_o75iixvU74WQMzGC50YDBZ8J3pohCAJVxboUT4npnzFhUYcS67_sgyGM.c0K5MZSef1fXYvJb6FbUt08_nPNRFx2PDWCYDuix8wH4CArMWwcqGsrS1tAowjxXLu8wabyppWmQ7ZohhDke2e5OPHWDA5EE05rDtinoWWgBtazho96LRDjrNslLN_S2FrweiS4%22&SynoToken=bXXAHAd1hrf7w",
+      "link": "https://nas-ludo.fr/drive/d/s/ydCVP829Bye9WUz2ncI4dQInltWN6IFz/webapi/entry.cgi/SYNO.SynologyDrive.Files/FFNxBattlefields.rar?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A820784500098245147%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820595674&sharing_token=%22_bSBzXNH64L4fNbEO4tCdjx.XNkBqLnIEJQvU_7qr.lOtfSdEmRadQbw9AoO.0XlbwQMIrtRSH423GPZakkbHV7o6OIYPiwwNkOkuSqSn83NBOgXosSbcxtYacjaPZnL.2Uk8emBsywq4CZzwmdDToNXtU9aCwYc0V1FzCC6b_C3cQ7OufOVJ3Mwuln9SbkVNLjOE0qyFY0c_ttnlStN.81OGSGIe2DhbdoEMa_AN312Qz7Q43m3MOaG%22&SynoToken=LMA5XD9re3Lt2",
       "git_tag": "none",
       "mod_type": "Graphical",
       "default_selected": "false",
@@ -231,7 +231,7 @@
     "FFNxLunarCry": {
       "download_type": "direct",
       "download_name": "FFNxLunarCry.rar",
-      "link": "https://nas-ludo.fr/drive/d/s/ydCVctrYS4sQrbHgWW8KkjgYH6AF20lt/webapi/entry.cgi/SYNO.SynologyDrive.Files/FFNxLunarCry.rar?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A820784512714711581%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1724337597261&sharing_token=%229F4228tV5CGwSk39__wjGz.lr7rowsxOjUybHBwpr6he1YME477EhOcuD_1Y18hmTRxQ4G4w1DbCKM_ZsoQ2maRr8Kp9zNcFWMpJFvoNhgkoRm0mIpLHYbBwJHpp7vCoLPDsj5yGXD2HGiAIUdDiHelEMTFeGLl.fshWbHWJelPtCwsUhud7ky6vLDxh6NBsfYpP7DLLsaP4noIz_DdQL5WmOGEzKxREM0ZpYMeCXzwYq3bOTMtAXMjz%22&SynoToken=bXXAHAd1hrf7w",
+      "link": "https://nas-ludo.fr/drive/d/s/ydCVctrYS4sQrbHgWW8KkjgYH6AF20lt/webapi/entry.cgi/SYNO.SynologyDrive.Files/FFNxLunarCry.rar?api=SYNO.SynologyDrive.Files&method=download&version=2&files=[%22id%3A820784512714711581%22]&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820408587&sharing_token=%22f4WCC0WrVZItYd81eaAmWSIt2WtxWLg3VHKjJbx23QfCxk52m8aAYZwMI5l_iJm3RkupwNrfiMAre7dFPwDA_iV1vp3gRdnMAkRynLpyXBHWx0rn76InruyKSq89pvXJILMXp0WPidhneETw2K3Ih019uFK5vLVJ16OovkPOdX.srZ8CPVgI9HYOKLJL1DZVaHmwYWkaYsUol6gWU5TxPlr4Kv44uzHX3GEs5NvLN.jr8Fuf6u6VRM8G%22&SynoToken=LMA5XD9re3Lt2",
       "git_tag": "none",
       "rank": "90",
       "compatibility": [
@@ -251,7 +251,7 @@
     "FFNxTripod": {
       "download_type": "direct",
       "download_name": "FFNxTripod.rar",
-      "link": "https://nas-ludo.fr/drive/d/s/ydCVs3qDgknTbq1rWpMqdZ6lRXZ0QRYO/webapi/entry.cgi/SYNO.SynologyDrive.Files/FFNxTripod.rar?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A820784526604149279%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1724337679961&sharing_token=%22s7s8FDunDT0O7X0wOMgX.60x.Gbu_2LNgF5Yt4dX0b_oZKOhqcn5O313IQ2yw.0yLAhCY029Sfhevbo7aui1U5JkjmgY6wML5M8A.zx1c.eIbl.XJbOjyYafhLVNbWuVUx3Vwq8BCDmOPaYyuzAa528ffpMxfRHtKnu_mlvadq5jK89QFljryzlFdSM39ENYLD2ocYykOyX3lhucoZCOf3zHCPt1tTsB48.bkTRcANDHOzFhh5p.LCCj%22&SynoToken=bXXAHAd1hrf7w",
+      "link": "https://nas-ludo.fr/drive/d/s/ydCVs3qDgknTbq1rWpMqdZ6lRXZ0QRYO/webapi/entry.cgi/SYNO.SynologyDrive.Files/FFNxTripod.rar?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A820784526604149279%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820641296&sharing_token=%22OsDEG6zmb7OeokT1M9qGt5ZAt.9fMQyCY1RNXOqDtT1LoRdDgkV.6eXfaP5Dqm_noqp5g_4pMD9wQ75QFKjABxr9t6MN72FDNo_mOsCKwevry6z8zeZWiKXVvcUmmSQu.59kqYFOmPea_dsXZxZ8EgMUM0jn3r3DbkF.tHQ8dcCJpWHCD1SbgXec6gGuxiNGzR6YJAf7KYJ_m0l87dcOzkfk0UUmGtTCfrG8xpvGmeu7opXXVq9rmAnp%22&SynoToken=LMA5XD9re3Lt2",
       "git_tag": "none",
       "rank": "100",
       "compatibility": [
@@ -271,7 +271,7 @@
     "Ragnarok-EN-ONLY": {
       "download_type": "direct",
       "download_name": "Ragnarok Mod v1.2.3 for Steam 2013 (06-05-2023).rar",
-      "link": "https://nas-ludo.fr/drive/d/s/ynnsiGvOtoCqPBHvt6zFX0lo9LIKaMv2/webapi/entry.cgi/SYNO.SynologyDrive.Files/Ragnarok%20Mod%20v1.2.3%20for%20Steam%202013%20(06-05-2023).rar?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A823099524837845149%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1724337722356&sharing_token=%22pH4B_28QYCqNdBBXB7LlzXCQR0GHMunFiTPkYEWhSpES2R1yKBVEQzx38He6nHm1noU3GH_n6_5PRMPsKYhfta31rGdaPUPETf9UYtruDi4Tlo6VCRs0ak59Rze7Fjtuv47Xll.nPSeApZmRjhesmpS_n6gnYDUVS8lxPtCJX_RRNQ_yJ6WmZYn2JPzPoCBL11x_ozzjkDJSbHi3zcEHgPH6KMtqGyL6C3IzysE1hOlfbifiKvFDVHc.%22&SynoToken=bXXAHAd1hrf7w",
+      "link": "https://nas-ludo.fr/drive/d/s/ynnsiGvOtoCqPBHvt6zFX0lo9LIKaMv2/webapi/entry.cgi/SYNO.SynologyDrive.Files/Ragnarok%20Mod%20v1.2.3%20for%20Steam%202013%20(06-05-2023).rar?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A823099524837845149%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820682610&sharing_token=%22h0PySEZymH01HLwx7DJ_5P.L_AvAGeVS0OBfBTJSmbXMDQhS4xO8d8k.kOMXpCBMnGAZ77QK_NZwhu0nctWcwBSfv1OWe7uH0kLEjO_dHHn2.SrgmSh0uyT.wy1i6PglSKJWNKsO5YCHw_XWuoZiklHqQmdDE3TFS8Yf45.0chAbabHoCvKrdYPRqP1qTT7t6bEZIm_Qc0ONZIsxIP921FFqaF_4hHMu9Ldzyz7KpChpdpFQi0JGlMhe%22&SynoToken=LMA5XD9re3Lt2",
       "git_tag": "none",
       "rank": "110",
       "compatibility": [
@@ -307,7 +307,7 @@
     "FF8Curiosite-FR-ONLY": {
       "download_type": "direct",
       "download_name": "FF8Curiosite.zip",
-      "link": "https://nas-ludo.fr/drive/d/s/ynUFKFt12wmDvkNcuo74A09C1zyFKJ6h/webapi/entry.cgi/SYNO.SynologyDrive.Files/FF8Curiosite.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A823030376948606771%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1724337775022&sharing_token=%22OjHsabT3kFtu3Gk8xm0ENFa7Occ8N8vsR_7MLdpNCWAO7X7KhUNzW1HL_KvuDQxdWOgosY84MtCc_.J9Zf9_pAi6SZvPLyy.i_mIzce1OuI_S8yK6O97KyNLSf2b2jISRmEe8HglMyhaGjY8oi6zBtxOg0yzBYY2vr7oJTacH6GQh7zVYGkkAVUwDWW7y7PHzOHSk_Fd3ctvnyqf17dJucLB44apnoXVr8B4lWEkHUhSQfMY2rO.eoKx%22&SynoToken=bXXAHAd1hrf7w",
+      "link": "https://nas-ludo.fr/drive/d/s/ynUFKFt12wmDvkNcuo74A09C1zyFKJ6h/webapi/entry.cgi/SYNO.SynologyDrive.Files/FF8Curiosite.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A823030376948606771%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820752269&sharing_token=%22X6dQK.stQDQryLxVywa7o5azGrrKbtIbn0R6yAMqEkx_n5adLfTMpTA6Ne4MY0GdzYPY4DU_KnLis.XIPawcIFBI0Pe2f7x1zCpFIIMuOFXyaKIygJVRRIrG079m8SE_JmWorXgRLHR.2NnHYvueRwHiLDvpQv20FCng0fxxOBP6snX8TCnKggCh.SI2DFpMFKMpHPLAhy5AeC_Mm9Cx95KhA1aCroSrUOYDQMSzvoUSkGPONEJrb01j%22&SynoToken=LMA5XD9re3Lt2",
       "git_tag": "none",
       "rank": "130",
       "compatibility": [
