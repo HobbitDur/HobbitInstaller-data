@@ -6,7 +6,9 @@
       "link": "https://github.com/HobbitDur/HobbitInstaller-data",
       "git_tag": "latest",
       "rank": "0",
-      "compatibility": "False",
+      "compatibility": [
+        "ffnx", "demaster"
+      ],
       "modder_name": "Hobbitdur",
       "mod_info": "HobbitInstaller",
       "mod_type": "Setup",
@@ -15,61 +17,9 @@
       "lang": [
         "en",
         "fr",
-        "de"
-      ]
-    },
-    "DefaultFilesFR": {
-      "download_type": "direct",
-      "download_name": "DefaultFilesFR.zip",
-      "link": "https://nas-ludo.fr/drive/d/s/ynCDplrefeIZPEnR51gLYpEE4ViK8wfu/webapi/entry.cgi/SYNO.SynologyDrive.Files/DefaultFilesFR.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A822966903157860063%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820916456&sharing_token=%22c9lRWMx1Ukm5v3LJ3kr2BV76xAEwWfw0Y7Ut7T8Vhblht.JeSYKSqyCgadui78fP9bGANQgJZHMmvjEc_pAfP7_rcIGp1XmorbK.zPNdQ_mn1RXHo1fR1L7W20r2J_DBtR1zmydaZT9JryFzw_v5WnKmjSpbeu6R4gmopLFct2EqqlfgN_8QOEBF5In1S6NxhyDLS8oP80eeM93KZz9TNNh8pf.6__g..cpmcpNVmgi9inYSmcYLCBN3%22&SynoToken=LMA5XD9re3Lt2",
-      "git_tag": "none",
-      "rank": "1",
-      "compatibility": [
-        "ffnx"
-      ],
-      "modder_name": "Hobbitdur",
-      "mod_info": "To reset gameplay mod",
-      "mod_type": "Gameplay",
-      "default_selected": "false",
-      "ffnx_param": {},
-      "lang": [
-        "fr"
-      ]
-    },
-    "DefaultFilesEN": {
-      "download_type": "direct",
-      "download_name": "DefaultFilesEN.zip",
-      "link": "https://nas-ludo.fr/drive/d/s/ynTHPzfDyYO7wnoi8fDsnnQJI0cOXwiu/webapi/entry.cgi/SYNO.SynologyDrive.Files/DefaultFilesEN.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A823026974191560455%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820889891&sharing_token=%226ArqxY92i0pOszE.5cuRdUqwEVg7eo0OmDkH8DqS1R51odUD_aTSxS97HKPLn6cSHojHWgxcyzn1jouvJX6TobOf5WIbi59aOjuVWGYpjCV1yeheRkNflkhQ._5KoijWZhzrGEYE77iGV0DFESmDz7SsM7OURiXPt8e004SGU9tGvsE9AE0VgVADWPYQXvdbRqaZ_2JSA_uuZKSp8U4tw03PSjMwTJtJ33CsVlOC3jZhf5F4r3l9uL0Z%22&SynoToken=LMA5XD9re3Lt2",
-      "git_tag": "none",
-      "rank": "10",
-      "compatibility": [
-        "ffnx"
-      ],
-      "modder_name": "Hobbitdur",
-      "mod_info": "To reset gameplay mod",
-      "mod_type": "Gameplay",
-      "default_selected": "false",
-      "ffnx_param": {},
-      "lang": [
-        "en"
-      ]
-    },
-    "DefaultFilesDE": {
-      "download_type": "direct",
-      "download_name": "DefaultFilesDE.zip",
-      "link": "https://nas-ludo.fr/drive/d/s/ynTJrtTP6kxshUHGLmx57py2KhnPyOxu/webapi/entry.cgi/SYNO.SynologyDrive.Files/DefaultFilesDE.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A823027113352275759%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820864404&sharing_token=%22w2SrzcV9Pt7HodoLkjDLrW0m0GyNET47JmyJfDzRgx.P_Ka.JBNU2Y_eGlZmyhDOgrplRtXyQAC8M4ranMYZLkpuDH1zpgX5aAuWKIyzHj5wmywNx6pi_HntEpfD4Ier2tn4.cN9DHbJgGqVK6.9D4M34TNhda5GRrRWy6Gy0I83jIckcW6b0f7GN75ljLF.wUU_zhwhTetDCbByJbZ5jOPBDQ5sfxM5foZIGald5btKmuL_6MpsK4FK%22&SynoToken=LMA5XD9re3Lt2",
-      "git_tag": "none",
-      "rank": "20",
-      "compatibility": [
-        "ffnx"
-      ],
-      "modder_name": "Hobbitdur",
-      "mod_info": "To reset gameplay mod",
-      "mod_type": "Gameplay",
-      "default_selected": "false",
-      "ffnx_param": {},
-      "lang": [
-        "de"
+        "de",
+        "es",
+        "it"
       ]
     },
     "FFNx": {
@@ -109,7 +59,9 @@
       "lang": [
         "en",
         "fr",
-        "de"
+        "de",
+        "es",
+        "it"
       ]
     },
     "FF78Launcher": {
@@ -129,7 +81,9 @@
       "lang": [
         "en",
         "fr",
-        "de"
+        "de",
+        "es",
+        "it"
       ]
     },
     "FFNxFF8Music": {
@@ -154,7 +108,9 @@
       "lang": [
         "en",
         "fr",
-        "de"
+        "de",
+        "es",
+        "it"
       ]
     },
     "FFNx-RoseAndWine": {
@@ -179,7 +135,9 @@
       "lang": [
         "en",
         "fr",
-        "de"
+        "de",
+        "es",
+        "it"
       ]
     },
     "Tsunamods-OST-RF": {
@@ -205,7 +163,9 @@
       "lang": [
         "en",
         "fr",
-        "de"
+        "de",
+        "es",
+        "it"
       ]
     },
     "FFNxBattlefields": {
@@ -225,7 +185,9 @@
       "lang": [
         "en",
         "fr",
-        "de"
+        "de",
+        "es",
+        "it"
       ]
     },
     "FFNxLunarCry": {
@@ -245,7 +207,9 @@
       "lang": [
         "en",
         "fr",
-        "de"
+        "de",
+        "es",
+        "it"
       ]
     },
     "FFNxTripod": {
@@ -265,7 +229,9 @@
       "lang": [
         "en",
         "fr",
-        "de"
+        "de",
+        "es",
+        "it"
       ]
     },
     "Ragnarok-EN-ONLY": {
