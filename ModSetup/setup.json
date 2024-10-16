@@ -254,24 +254,6 @@
         "en"
       ]
     },
-    "HobbitGameplayMod-ALPHA-FR-ONLY": {
-      "download_type": "direct",
-      "download_name": "HobbitGameplayMod.zip",
-      "link": "https://nas-ludo.fr/drive/d/s/ycCFcEyDr8CMdLmrDcbKi1D0ft5PyQ3g/webapi/entry.cgi/SYNO.SynologyDrive.Files/HobbitMod-0.0.1.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A820565263201116691%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1720980651628&sharing_token=%22X2FteW6Q0HC61FJXHijkVmADLavWBYjIp2Qh25t2Y_L9pMaDXMd8It3uF5Uto0Hf6q1UQojGCSJQzxZ6qpswrhTWeUhxZiJGAumWni2_Z9NPSpsbjsz2YH3s640seN7iePmzWO9JR2JwPRcaPZcrKOqzVbp2ZPzK_o9u22y6gWpZLVyVYvjfc8ubKDpEqpcJdLLtoFICG2ms17L2VutUMwAnmocs.LNXvS2j3FZy7su05zyirUSpjPo1%22",
-      "git_tag": "none",
-      "rank": "120",
-      "compatibility": [
-        "ffnx"
-      ],
-      "modder_name": "Hobbitdur",
-      "mod_info": "Hard mod that balance the game. WIP do not install if not a tester",
-      "mod_type": "Gameplay",
-      "default_selected": "false",
-      "ffnx_param": {},
-      "lang": [
-        "fr"
-      ]
-    },
     "FF8Curiosite-FR-ONLY": {
       "download_type": "direct",
       "download_name": "FF8Curiosite.zip",
