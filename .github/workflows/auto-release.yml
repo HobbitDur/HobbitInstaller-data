@@ -1,0 +1,33 @@
+name: Auto-release
+
+on:
+  push:
+    branches: [ "master" ]
+    tags:
+      - "*"
+  pull_request:
+    branches: [ "master" ]
+  workflow_dispatch:
+
+jobs:
+  release_assets:
+    name: Release
+    runs-on: windows-latest
+    concurrency: release-${{ github.ref }}
+    steps:
+    - name: Deploy Package
+      if: github.event.ref_type != 'tag' && github.ref == 'refs/heads/master'
+      uses: crowbarmaster/GH-Automatic-Releases@latest
+      with:
+        repo_token: "${{ secrets.GITHUB_TOKEN }}"
+        automatic_release_tag: "continuous"
+        prerelease: true
+        title: "Unstable Build"
+    - name: Deploy tag Package
+      if:  startsWith(github.ref, 'refs/tags/')
+      uses: crowbarmaster/GH-Automatic-Releases@latest
+      with:
+        repo_token: "${{ secrets.GITHUB_TOKEN }}"
+        prerelease: false
+        automatic_release_tag: ${{ github.ref_name }}
+        title: "HobbitInstaller-data-${{ github.ref_name }}"
