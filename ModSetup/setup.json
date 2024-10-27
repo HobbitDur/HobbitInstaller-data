@@ -26,7 +26,7 @@
       "download_type": "github",
       "download_name": "none",
       "link": "https://github.com/julianxhokaxhiu/FFNx",
-      "git_tag": "latest",
+      "git_tag": "canary",
       "rank": "30",
       "compatibility": [
         "ffnx"
@@ -227,6 +227,28 @@
       "mod_info": "Improve triple triad",
       "mod_type": "Graphical",
       "default_selected": "false",
+      "ffnx_param": {},
+      "lang": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it"
+      ]
+    },
+    "Tsunamod-Card-RF": {
+      "download_type": "direct",
+      "download_name": "none",
+      "link": "https://download.tsunamods.com/?id=17",
+      "git_tag": "none",
+      "rank": "101",
+      "compatibility": [
+        "ffnx"
+      ],
+      "modder_name": "ducladoncladon and HobbitDur",
+      "mod_info": "Rework of triple triad with Atworks",
+      "mod_type": "Graphical",
+      "default_selected": "true",
       "ffnx_param": {},
       "lang": [
         "en",
