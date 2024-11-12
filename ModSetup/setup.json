@@ -115,10 +115,10 @@
         "it"
       ]
     },
-    "FFNx-RoseAndWine": {
+    "FFNxRosesAndWine": {
       "download_type": "direct",
-      "download_name": "FFNx-RoseAndWine.zip",
-      "link": "https://nas-ludo.fr/drive/d/s/ykEctZwuaU8n9jXTUwXdt59MxMVTyXxv/webapi/entry.cgi/SYNO.SynologyDrive.Files/FFNx-RoseAndWin.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A822320349564675511%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820824880&sharing_token=%22IgtbrKMXf6h2Nt5XIC9h3gFrVLpRg5_IhkgMeVxMxvf8mc.1S9WKgqrNK3DbxlC.IHo_R1l.7m8vufYCa9sh.b7Ujq9wEc5Hdyfa1va4101GH03AM2f8Sds9JFa_jwpfgTDEF7u5GoQrrUg1gRMorGQvjl346AF7gbn_YfXgYCdBN_Y.qYsY4cIVZU6dbCYub19KuwG0AbOGIzJELLa0egGYuMx3tZ.03hl1s484.ZC_oh_sA8JXpgjL%22&SynoToken=LMA5XD9re3Lt2",
+      "download_name": "FFNxRosesAndWine.zip",
+      "link": "https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/FFNxRosesAndWine.zip",
       "git_tag": "none",
       "rank": "60",
       "compatibility": [
@@ -173,7 +173,7 @@
     "FFNxBattlefields": {
       "download_type": "direct",
       "download_name": "FFNxBattlefields.rar",
-      "link": "https://nas-ludo.fr/drive/d/s/ydCVP829Bye9WUz2ncI4dQInltWN6IFz/webapi/entry.cgi/SYNO.SynologyDrive.Files/FFNxBattlefields.rar?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A820784500098245147%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820595674&sharing_token=%22_bSBzXNH64L4fNbEO4tCdjx.XNkBqLnIEJQvU_7qr.lOtfSdEmRadQbw9AoO.0XlbwQMIrtRSH423GPZakkbHV7o6OIYPiwwNkOkuSqSn83NBOgXosSbcxtYacjaPZnL.2Uk8emBsywq4CZzwmdDToNXtU9aCwYc0V1FzCC6b_C3cQ7OufOVJ3Mwuln9SbkVNLjOE0qyFY0c_ttnlStN.81OGSGIe2DhbdoEMa_AN312Qz7Q43m3MOaG%22&SynoToken=LMA5XD9re3Lt2",
+      "link": "https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/FFNxBattlefields.rar",
       "git_tag": "none",
       "mod_type": "Graphical",
       "default_selected": "false",
@@ -195,7 +195,7 @@
     "FFNxLunarCry": {
       "download_type": "direct",
       "download_name": "FFNxLunarCry.rar",
-      "link": "https://nas-ludo.fr/drive/d/s/ydCVctrYS4sQrbHgWW8KkjgYH6AF20lt/webapi/entry.cgi/SYNO.SynologyDrive.Files/FFNxLunarCry.rar?api=SYNO.SynologyDrive.Files&method=download&version=2&files=[%22id%3A820784512714711581%22]&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820408587&sharing_token=%22f4WCC0WrVZItYd81eaAmWSIt2WtxWLg3VHKjJbx23QfCxk52m8aAYZwMI5l_iJm3RkupwNrfiMAre7dFPwDA_iV1vp3gRdnMAkRynLpyXBHWx0rn76InruyKSq89pvXJILMXp0WPidhneETw2K3Ih019uFK5vLVJ16OovkPOdX.srZ8CPVgI9HYOKLJL1DZVaHmwYWkaYsUol6gWU5TxPlr4Kv44uzHX3GEs5NvLN.jr8Fuf6u6VRM8G%22&SynoToken=LMA5XD9re3Lt2",
+      "link": "https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/FFNxLunarCry.rar",
       "git_tag": "none",
       "rank": "90",
       "compatibility": [
@@ -203,28 +203,6 @@
       ],
       "modder_name": "MCINDUS & Digixu",
       "mod_info": "Improve monster quality",
-      "mod_type": "Graphical",
-      "default_selected": "false",
-      "ffnx_param": {},
-      "lang": [
-        "en",
-        "fr",
-        "de",
-        "es",
-        "it"
-      ]
-    },
-    "FFNxTripod": {
-      "download_type": "direct",
-      "download_name": "FFNxTripod.rar",
-      "link": "https://nas-ludo.fr/drive/d/s/ydCVs3qDgknTbq1rWpMqdZ6lRXZ0QRYO/webapi/entry.cgi/SYNO.SynologyDrive.Files/FFNxTripod.rar?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A820784526604149279%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820641296&sharing_token=%22OsDEG6zmb7OeokT1M9qGt5ZAt.9fMQyCY1RNXOqDtT1LoRdDgkV.6eXfaP5Dqm_noqp5g_4pMD9wQ75QFKjABxr9t6MN72FDNo_mOsCKwevry6z8zeZWiKXVvcUmmSQu.59kqYFOmPea_dsXZxZ8EgMUM0jn3r3DbkF.tHQ8dcCJpWHCD1SbgXec6gGuxiNGzR6YJAf7KYJ_m0l87dcOzkfk0UUmGtTCfrG8xpvGmeu7opXXVq9rmAnp%22&SynoToken=LMA5XD9re3Lt2",
-      "git_tag": "none",
-      "rank": "100",
-      "compatibility": [
-        "ffnx"
-      ],
-      "modder_name": "MCINDUS & Digixu",
-      "mod_info": "Improve triple triad",
       "mod_type": "Graphical",
       "default_selected": "false",
       "ffnx_param": {},
@@ -261,7 +239,7 @@
     "Ragnarok-EN-ONLY": {
       "download_type": "direct",
       "download_name": "Ragnarok Mod v1.2.3 for Steam 2013 (06-05-2023).rar",
-      "link": "https://nas-ludo.fr/drive/d/s/ynnsiGvOtoCqPBHvt6zFX0lo9LIKaMv2/webapi/entry.cgi/SYNO.SynologyDrive.Files/Ragnarok%20Mod%20v1.2.3%20for%20Steam%202013%20(06-05-2023).rar?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A823099524837845149%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820682610&sharing_token=%22h0PySEZymH01HLwx7DJ_5P.L_AvAGeVS0OBfBTJSmbXMDQhS4xO8d8k.kOMXpCBMnGAZ77QK_NZwhu0nctWcwBSfv1OWe7uH0kLEjO_dHHn2.SrgmSh0uyT.wy1i6PglSKJWNKsO5YCHw_XWuoZiklHqQmdDE3TFS8Yf45.0chAbabHoCvKrdYPRqP1qTT7t6bEZIm_Qc0ONZIsxIP921FFqaF_4hHMu9Ldzyz7KpChpdpFQi0JGlMhe%22&SynoToken=LMA5XD9re3Lt2",
+      "link": "https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/Ragnarok+Mod+v1.2.3+for+Steam+2013+(06-05-2023).rar",
       "git_tag": "none",
       "rank": "110",
       "compatibility": [
@@ -279,7 +257,7 @@
     "FF8Curiosite-FR-ONLY": {
       "download_type": "direct",
       "download_name": "FF8Curiosite.zip",
-      "link": "https://nas-ludo.fr/drive/d/s/ynUFKFt12wmDvkNcuo74A09C1zyFKJ6h/webapi/entry.cgi/SYNO.SynologyDrive.Files/FF8Curiosite.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A823030376948606771%22%5D&force_download=true&json_error=true&download_type=%22download%22&c2_offload=%22allow%22&_dc=1727820752269&sharing_token=%22X6dQK.stQDQryLxVywa7o5azGrrKbtIbn0R6yAMqEkx_n5adLfTMpTA6Ne4MY0GdzYPY4DU_KnLis.XIPawcIFBI0Pe2f7x1zCpFIIMuOFXyaKIygJVRRIrG079m8SE_JmWorXgRLHR.2NnHYvueRwHiLDvpQv20FCng0fxxOBP6snX8TCnKggCh.SI2DFpMFKMpHPLAhy5AeC_Mm9Cx95KhA1aCroSrUOYDQMSzvoUSkGPONEJrb01j%22&SynoToken=LMA5XD9re3Lt2",
+      "link": "https://s3.eu-west-1.amazonaws.com/tsunamods.mods/Hobbitdur/FF8Curiosite.zip",
       "git_tag": "none",
       "rank": "130",
       "compatibility": [
